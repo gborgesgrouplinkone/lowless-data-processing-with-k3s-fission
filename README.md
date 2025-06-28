@@ -1,4 +1,4 @@
-# Fission + K3S + NESTJS
+# Fission + K3S + NestJS
 
 Esta prova de conceito (POC) tem como objetivo explorar o uso de Funções como Serviço (FaaS) em um ambiente Kubernetes leve, utilizando o Fission como framework serverless e o K3s como orquestrador Kubernetes otimizado para ambientes de desenvolvimento e edge computing.
 
