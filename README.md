@@ -12,7 +12,8 @@ A distribuição Kubernetes certificada e desenvolvida para IoT e computação d
 
 ## Install K3S
 
-curl -sfL https://get.k3s.io | sh - 
+
+`curl -sfL https://get.k3s.io | sh - `
 
 ## Install Fission
 
