@@ -14,7 +14,7 @@ A distribuição Kubernetes certificada e desenvolvida para IoT e computação d
 
 Framework sem servidor nativo do Kubernetes de código aberto
 
-`sudo helm upgrade --install fission fission-charts/fission-all --namespace fission -f ./helm/values.ya`
+`sudo helm upgrade --install fission fission-charts/fission-all --namespace fission -f ./helm/values.yaml`
 
 
 ## Deploy
