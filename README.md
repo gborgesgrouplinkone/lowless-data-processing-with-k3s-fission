@@ -10,6 +10,10 @@ A proposta da POC é validar a viabilidade técnica de utilizar Fission para des
 
 A distribuição Kubernetes certificada e desenvolvida para IoT e computação de ponta. É um Kubernetes leve e de alta performance, perfeito para ambientes EDGE.
 
+## Install K3S
+
+curl -sfL https://get.k3s.io | sh - 
+
 ## Install Fission
 
 Framework sem servidor nativo do Kubernetes de código aberto
